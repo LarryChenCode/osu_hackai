@@ -24,8 +24,3 @@ The Gradient Boosting (GB) model implemented in Scikit-learn was the standout, a
 
 ## Future Directions
 Further research could involve acquiring more data to enhance the dataset and potentially improve model performance. Additionally, exploring alternative feature engineering techniques and model parameters may offer insights into achieving better results.
-
-## How to Use This Repository
-This section can include instructions on how to clone the repository, set up the environment, and run the analysis scripts. It could be structured as follows:
-
-
