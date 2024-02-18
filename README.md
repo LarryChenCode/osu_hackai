@@ -1,8 +1,8 @@
 # OSU HackAI: House Price Prediction Analysis Overview
 
-### Team Name: Triple C
-### Team Member: Hao-Chun Chou, Lillian Chen, Larry Chen
-### Challenge: AI Club Track (House Price Prediction)
+Team Name: Triple C
+Team Member: Hao-Chun Chou, Lillian Chen, Larry Chen
+Challenge: AI Club Track (House Price Prediction)
 
 ## Project Summary
 This project aimed to predict house prices by analyzing a dataset with various attributes such as area, number of bedrooms, bathrooms, and more. We conducted our analyses using two primary tools: PySpark and Scikit-learn, to compare different models and identify the most effective approach for predicting house prices.
